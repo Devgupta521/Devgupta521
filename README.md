@@ -143,7 +143,4 @@ I'm a **motivated cybersecurity enthusiast** on a mission to join a **Security O
 ```
 [ MONITORING THE NETWORK. DEFENDING THE PERIMETER. PROTECTING THE MISSION. ]
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
