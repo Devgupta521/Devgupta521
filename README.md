@@ -97,20 +97,6 @@ I'm a **motivated cybersecurity enthusiast** on a mission to join a **Security O
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devgupta521&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devgupta521&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgupta521&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=6)
-
-</div>
-
-> ⚠️ **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for the stats to load correctly.
-
 ---
 
 ## 🏆 Platforms & Practice
